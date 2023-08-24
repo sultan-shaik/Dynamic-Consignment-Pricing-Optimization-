@@ -59,4 +59,4 @@ The classification report provides insights into the model's precision, recall, 
 
 
 ## Contact
-For questions, feedback, or collaborations, please contact [Your Name] at [your@email.com].
+For questions, feedback, or collaborations, please contact [Shaik Sultan] at [sultanfazal884@email.com].
